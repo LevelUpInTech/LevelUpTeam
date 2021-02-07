@@ -21,4 +21,3 @@ curl ifconfig.me
 
 add a new line
 add anoter line
-add this test line to the file
