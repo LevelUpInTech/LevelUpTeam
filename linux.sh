@@ -19,10 +19,4 @@ echo "-----------------------------"
 sleep 2
 curl ifconfig.me
 
-add a new line
-add anoter line
-add a test env
-test
-mytest
-paulzhao
-pzhao
+March 7th, 2021
