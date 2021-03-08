@@ -1,4 +1,5 @@
 #!/bin/bash
+This is my forst commit, EPI 3/7/2021
 
 echo "Please enter your name:"
 read name
@@ -19,7 +20,7 @@ echo "-----------------------------"
 sleep 2
 curl ifconfig.me
 
-This is Joel McKenzie... I am just making some RANDOM changes in the hope that this all makes sense somewhere to someone...
+This is Eric Ingram... I made changes to Joel McKenzies file, I think I am on the right track...
 
 add a new line
 add anoter line
