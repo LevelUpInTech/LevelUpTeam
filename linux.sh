@@ -7,6 +7,8 @@ sleep 3
 echo "-----------------------------"
 echo "Your username is:" && whoami 
 echo "-----------------------------"
+echo "Your last login details:" && last
+echo "------------------------"
 echo "This is one of my first Linux Scripts"
 sleep 2
 echo "Please wait while we process the date......."
