@@ -21,6 +21,5 @@ curl ifconfig.me
 
 This is Joel McKenzie... I am just making some RANDOM changes in the hope that this all makes sense somewhere to someone...
 
-add a new line
-add anoter line
-add a test env
+This is Betty Barrera, I am updating file using VIM.
+Really enjoying the training and the team is great.  Hope to continue learning a lot more.
