@@ -1,4 +1,5 @@
 #!/bin/bash
+Hi, I hope this makes sense! 
 
 echo "Please enter your name:"
 read name
