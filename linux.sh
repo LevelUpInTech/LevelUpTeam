@@ -7,7 +7,7 @@ sleep 3
 echo "-----------------------------"
 echo "Your username is:" && whoami 
 echo "-----------------------------"
-echo "This is one of my first Linux Scripts"
+echo "This is one of my first Linux Scripts but won't be my last"
 sleep 2
 echo "Please wait while we process the date......."
 sleep 3
@@ -24,3 +24,4 @@ This is Joel McKenzie... I am just making some RANDOM changes in the hope that t
 add a new line
 add anoter line
 add a test env
+
