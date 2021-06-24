@@ -1,5 +1,8 @@
 #!/bin/bash
 
+#This is a comment from Daniel Rothamel
+#Have a great day!
+
 echo "Please enter your name:"
 read name
 echo "Reading.... please wait"
