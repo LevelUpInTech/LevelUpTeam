@@ -19,8 +19,4 @@ echo "-----------------------------"
 sleep 2
 curl ifconfig.me
 
-This is Joel McKenzie... I am just making some RANDOM changes in the hope that this all makes sense somewhere to someone...
-
-add a new line
-add anoter line
-add a test env
+This is week 4 - project test
