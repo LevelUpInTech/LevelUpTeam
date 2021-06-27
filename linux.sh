@@ -8,6 +8,9 @@ echo "-----------------------------"
 echo "Your username is:" && whoami 
 echo "-----------------------------"
 echo "This is one of my first Linux Scripts"
+echo "-----------------------------"
+echo "I am learning how to use github/git"
+echo "-----------------------------"
 sleep 2
 echo "Please wait while we process the date......."
 sleep 3
