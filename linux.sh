@@ -19,4 +19,5 @@ echo "-----------------------------"
 sleep 2
 curl ifconfig.me
 
+Creating a change to the file
 This is week 4 - project test
