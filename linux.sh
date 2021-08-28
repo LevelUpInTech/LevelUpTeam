@@ -18,5 +18,11 @@ echo "My IP address is:"
 echo "-----------------------------"
 sleep 2
 curl ifconfig.me
+echo ""
+echo "-----------------------------"
+echo "My User Agent is:"
+echo "-----------------------------"
+sleep 2
+curl ifconfig.me/ua
+echo ""
 
-This is week 4 - project test
