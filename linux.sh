@@ -5,7 +5,7 @@ read name
 echo "Reading.... please wait"
 sleep 3 
 echo "-----------------------------"
-echo "Your username is:" && whoami 
+echo "Your username is: Dinul" && whoami 
 echo "-----------------------------"
 echo "This is one of my first Linux Scripts"
 sleep 2
