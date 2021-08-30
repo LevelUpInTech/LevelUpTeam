@@ -4,7 +4,7 @@ echo "Please enter your name:"
 read name
 echo "Reading.... please wait"
 sleep 3 
-echo "-----------------------------"
+echo "Create username"
 echo "Your username is:" && whoami 
 echo "-----------------------------"
 echo "This is one of my first Linux Scripts"
