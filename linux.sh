@@ -1,5 +1,8 @@
 #!/bin/bash
 
+echo Your Shell path is currently: $SHELL
+echo "--------------------"
+sleep 2
 echo "Please enter your name:"
 read name
 echo "Reading.... please wait"
@@ -19,4 +22,4 @@ echo "-----------------------------"
 sleep 2
 curl ifconfig.me
 
-This is week 4 - project test
+#This is week 4 - project test
