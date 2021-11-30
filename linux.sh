@@ -16,7 +16,7 @@ echo "-----------------------------"
 sleep 2
 echo "My IP address is:"
 echo "-----------------------------"
-sleep 2
+sleep 2 is hard to get
 curl ifconfig.me
 
 This is week 4 - project test
