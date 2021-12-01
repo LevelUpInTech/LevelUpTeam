@@ -1,6 +1,6 @@
 #!/bin/bash
-more changes
-changes blah blah blah
+
+echo Your Shell path is currently: $SHELL
 echo "--------------------"
 sleep 2
 echo "Please enter your name:"
