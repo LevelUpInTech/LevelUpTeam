@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#This is just me adding a comment to modify this script. Jason C
 echo "Please enter your name:"
 read name
 echo "Reading.... please wait"
