@@ -18,5 +18,6 @@ echo "My IP address is:"
 echo "-----------------------------"
 sleep 2
 curl ifconfig.me
-
+echo "Michael Jordan is the GOAT!!!"
+sleep 2
 This is week 4 - project test
