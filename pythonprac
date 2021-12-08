@@ -1,0 +1,28 @@
+calculation_to_units = 24 * 60 * 60
+name_of_unit = "seconds"
+
+
+print(f"20 days are {20 * calculation_to_units} {name_of_unit}")
+print(f"35 days are {35 * calculation_to_units} {name_of_unit}")
+print(f"100 days are {100 * calculation_to_units} {name_of_unit}")
+
+
+
+
+def days_to_units(num_of_days):
+    print(f"{num_of_days} days are {num_of_days * calculation_to_units} {name_of_unit}")
+
+
+days_to_units(20)
+days_to_units(35)
+days_to_units(100)
+
+
+def days_to_units(num_of_days):
+    return f"{num_of_days} days are {num_of_days * calculation_to_units} {name_of_unit}"
+
+
+user_input = input("Hello User, please enter the number of days to convert to seconds!\n")
+user_input_number = int(user_input)
+calculated_value = days_to_units(user_input_number)
+print(calculated_value)
