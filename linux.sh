@@ -1,5 +1,6 @@
 #!/bin/bash
-
+Thank you for allowing me to edit as well.
+echo "apple sauce rules the world."
 echo "Please enter your name:"
 read name
 echo "Reading.... please wait"
