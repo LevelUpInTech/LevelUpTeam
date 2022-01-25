@@ -1,4 +1,5 @@
 #!/bin/bash
+echo "I like to move it move it."
 Thank you for allowing me to edit as well.
 echo "apple sauce rules the world."
 echo "Please enter your name:"
