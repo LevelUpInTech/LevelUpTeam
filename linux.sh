@@ -17,4 +17,10 @@ sleep 2
 echo "My IP address is:"
 echo "-----------------------------"
 
+<<<<<<< HEAD
 This is week 4 - project test
+=======
+add a new line
+add another line
+add to test branch
+>>>>>>> test
