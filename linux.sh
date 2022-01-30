@@ -18,5 +18,5 @@ echo "My IP address is:"
 echo "-----------------------------"
 sleep 2
 curl ifconfig.me
-
+i really enjoyed working on this project- good learning information. LUIT!
 This is week 4 - project test
