@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "Please enter your name:"
-read name
+read Jason
 echo "Reading.... please wait"
 sleep 3 
 echo "-----------------------------"
@@ -23,6 +23,5 @@ This is week 4 - project test
 
 Attempt at this week's project. 
 
-
-Attempt at this week's project. 
-
+# Deleted second line and filled in name on bash script.
+# Pushed for more practice and familiarity with making changes on Git-Github.
