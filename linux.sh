@@ -1,9 +1,10 @@
 #!/bin/bash
 
+
 echo "Please enter your name:"
 read name
 echo "Reading.... please wait"
-sleep 3 
+sleep 5 
 echo "-----------------------------"
 echo "Your username is:" && whoami 
 echo "-----------------------------"
