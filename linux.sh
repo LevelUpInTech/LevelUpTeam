@@ -21,4 +21,5 @@ curl ifconfig.me
 
 #adding lines
 echo "Real Salt Lake"
+echo "cheeseburger"
 This is week 4 - project test
