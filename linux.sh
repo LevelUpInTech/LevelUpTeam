@@ -20,3 +20,5 @@ sleep 2
 curl ifconfig.me
 
 This is week 4 - project test
+
+I am making an addition to the file for my Week 4 project.
