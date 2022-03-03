@@ -19,4 +19,6 @@ echo "-----------------------------"
 sleep 2
 curl ifconfig.me
 
+#adding lines
+echo "Real Salt Lake"
 This is week 4 - project test
