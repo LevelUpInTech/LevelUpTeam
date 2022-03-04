@@ -20,6 +20,6 @@ sleep 2
 curl ifconfig.me
 
 #adding lines
-echo "Real Salt Lake"
-echo "cheeseburger"
+echo "We are adding new lines"
+
 This is week 4 - project test
