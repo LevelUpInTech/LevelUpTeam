@@ -1,6 +1,7 @@
 #!/bin/bash
+#This file is edited by Jesmine for the purpose of Project2 
 
-echo "Please enter your name:"
+echo "Jesmine:"
 read name
 echo "Reading.... please wait"
 sleep 3 
