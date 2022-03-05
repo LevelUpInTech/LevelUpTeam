@@ -17,8 +17,4 @@ sleep 2
 echo "My IP address is:"
 echo "-----------------------------"
 sleep 2
-curl ifconfig.me
 
-add a new line
-add another line
-add to test branch
