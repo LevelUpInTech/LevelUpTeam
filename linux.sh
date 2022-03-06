@@ -1,4 +1,5 @@
-#!/bin/bash
+Im am so handsome
+Level UP all the way#!/bin/bash
 
 echo "Please enter your name:"
 read name
