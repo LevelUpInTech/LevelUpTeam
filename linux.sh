@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Please enter your name:"
+echo "Please enter your name: Dami Agosa "
 read name
 echo "Reading.... please wait"
 sleep 3 
@@ -20,3 +20,4 @@ sleep 2
 curl ifconfig.me
 
 This is week 4 - project test
+checking if edits saved
