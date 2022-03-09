@@ -1,5 +1,5 @@
 #!/bin/bash
-
+echo "Linux GitHub 2nd Project"
 echo "Please enter your name:"
 read name
 echo "Reading.... please wait"
