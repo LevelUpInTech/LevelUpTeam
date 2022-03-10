@@ -399,15 +399,15 @@ Resources:
           Fn::Base64:
             !Sub |
               #!/bin/bash
-              yum update -y
-              yum install httpd -y
-              systemctl start httpd
-              systemctl enable httpd
-              yum install git
-              git config --global user.name Steven Tisdol
-              git config --global user.email steven.tisdol@gmail.com
-              amazon-linux-extras install epel -y
-              yum install stress -y
+              sudo yum update -y
+              sudo yum install httpd -y
+              sudo systemctl start httpd
+              sudo systemctl enable httpd
+              sudo yum install git
+              sudo git config --global user.name Steven Tisdol
+              sudo git config --global user.email steven.tisdol@gmail.com
+              sudo amazon-linux-extras install epel -y
+              sudo yum install stress -y
 
   WebServerGroup:
     Type: "AWS::AutoScaling::AutoScalingGroup"
