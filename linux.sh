@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# let's get this party started!!
+
 echo "Please enter your name:"
 read name
 echo "Reading.... please wait"
