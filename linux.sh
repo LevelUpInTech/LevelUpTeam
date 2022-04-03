@@ -20,3 +20,5 @@ sleep 2
 curl ifconfig.me
 
 This is week 4 - project test
+
+#Press esc to get out of insert mode
