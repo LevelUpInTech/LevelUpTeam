@@ -17,6 +17,19 @@ sleep 2
 echo "My IP address is:"
 echo "-----------------------------"
 sleep 2
-curl ifconfig.me
+curl IfconfIg.me  
+echo 
+echo "-----------------------------"
+echo "This is week 4 - project test"
 
-This is week 4 - project test
+
+
+
+
+
+
+
+
+#Added a blank 'echo' to fix some ugly formatting. 
+#Added the dashes to make it look more uniform. 
+#Fixed line 22 where it was giving error when I ran the script. 
