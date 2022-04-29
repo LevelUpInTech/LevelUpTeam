@@ -2,6 +2,7 @@
 
 echo "Please enter your name:"
 read name
+echo "Hello $sakina"
 echo "Reading.... please wait"
 sleep 3 
 echo "-----------------------------"
@@ -19,4 +20,5 @@ echo "-----------------------------"
 sleep 2
 curl ifconfig.me
 
-This is week 4 - project test
+echo This is week 4 - project test
+
