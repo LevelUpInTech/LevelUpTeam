@@ -1,5 +1,6 @@
 #!/bin/bash
 
+echo "Hello LU - Red Team, this is Huy"
 echo "Please enter your name:"
 read name
 echo "Reading.... please wait"
