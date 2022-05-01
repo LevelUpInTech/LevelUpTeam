@@ -2,7 +2,7 @@
 This was a fun project to do 
 
 echo Please enter your name:"
-http://www.luitaprilward.com/ 
+href= http://www.luitaprilward.com/ 
 echo "Reading.... please wait"
 sleep 3 
 echo "-----------------------------"
