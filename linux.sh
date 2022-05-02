@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#Testing 1, 2, 3 - LevelUp Team Red!
+
 echo "Please enter your name:"
 read name
 echo "Reading.... please wait"
