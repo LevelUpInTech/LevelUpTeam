@@ -1,4 +1,4 @@
-#!/bin/bash
+# !/bin/bash
 
 echo "Please enter your name:"
 read name
@@ -19,4 +19,5 @@ echo "-----------------------------"
 sleep 2
 curl ifconfig.me
 
-This is week 4 - project test
+This is week 4 - project test  
+Tyler was here for the week 4 Project!
