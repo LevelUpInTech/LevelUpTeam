@@ -1,5 +1,7 @@
 #!/bin/bash
 
+I created a change to the file that is in the repo directory!
+
 echo "Please enter your name:"
 read name
 echo "Reading.... please wait"
