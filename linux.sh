@@ -1,5 +1,7 @@
 #!/bin/bash
 
+I added a hashtag to line 24 to make the script executable. I also added an additional comment. 
+
 echo "Please enter your name:"
 read name
 echo "Reading.... please wait"
@@ -19,4 +21,5 @@ echo "-----------------------------"
 sleep 2
 curl ifconfig.me
 
-This is week 4 - project test
+#This is week 4 - project test
+#Let's go Silver Team!
