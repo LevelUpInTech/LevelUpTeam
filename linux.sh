@@ -18,5 +18,7 @@ echo "My IP address is:"
 echo "-----------------------------"
 sleep 2
 curl ifconfig.me
+sleep 2
+echo "-----------------------------"
+echo "This is Week 4's Project: Git and GitHub Usage. Let's Goooo Silver Team!!"
 
-This is week 4 - project test
