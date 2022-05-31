@@ -7,7 +7,7 @@ Find out more about me & feel free to connect with me here:
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-Tobi%20Owofade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oluwatobiowofade/)](https://www.linkedin.com/in/oluwatobiowofade/)
-[![Medium Badge](https://img.shields.io/badge/Broadus%20Palmer-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@oowofade)](https://medium.com/@oowofade)
+[![Medium Badge](https://img.shields.io/badge/Tobi%20Owofade-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@oowofade)](https://medium.com/@oowofade)
 [![Gmail Badge](https://img.shields.io/badge/-tobiowofade@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tobiowofade@gmail.com)](mailto:tobiowofade@gmail.com)
 
 ## ⚡ Technologies
