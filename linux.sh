@@ -1,13 +1,13 @@
 #!/bin/bash
 
-echo "Please enter your name:"
+echo "Who goes there?:"
 read name
-echo "Reading.... please wait"
+echo "Wait.... let me check"
 sleep 3 
 echo "-----------------------------"
 echo "Your username is:" && whoami 
 echo "-----------------------------"
-echo "This is one of my first Linux Scripts"
+echo "This is my first time running a script like this"
 sleep 2
 echo "Please wait while we process the date......."
 sleep 3
