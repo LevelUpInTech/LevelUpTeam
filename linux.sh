@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#Team Silver is the CHANGE!
+
 echo "Please enter your name:"
 read name
 echo "Reading.... please wait"
