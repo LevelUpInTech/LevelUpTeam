@@ -1,5 +1,8 @@
 #!/bin/bash
 
+#testing testing orange team
+
+
 echo "Please enter your name:"
 read name
 echo "Reading.... please wait"
@@ -19,4 +22,6 @@ echo "-----------------------------"
 sleep 2
 curl ifconfig.me
 
+
+:wq
 This is week 4 - project test
