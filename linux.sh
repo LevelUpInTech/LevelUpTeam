@@ -19,4 +19,6 @@ echo "-----------------------------"
 sleep 2
 curl ifconfig.me
 
+Go Orange team!
+
 This is week 4 - project test
