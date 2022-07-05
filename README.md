@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Cory Fleenor I am pursuing a Devops Engineer position in the future. We are currently learning Git and starting AWS.
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
 
 Find out more about me & feel free to connect with me here:
