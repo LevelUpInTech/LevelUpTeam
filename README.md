@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
 
 Hi, I'm Nick. I'm currently learning about Infrastructure-as-code, and how it can be used to optimize cloud environments. As part of that pursuit, I'm pursuing my AWS Associate CDA Cert and a Terraform Associate Cert.
 
