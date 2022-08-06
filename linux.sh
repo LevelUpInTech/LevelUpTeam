@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#GitHub Test
+#Level Up
 echo "Please enter your name:"
 read name
 echo "Reading.... please wait"
@@ -20,3 +22,4 @@ sleep 2
 curl ifconfig.me
 
 This is week 4 - project test
+
