@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Hi my name is George
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
 
 Find out more about me & feel free to connect with me here:
