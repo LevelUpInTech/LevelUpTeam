@@ -20,5 +20,5 @@ sleep 2
 curl ifconfig.me
 
 This is week 4 - project test
-#Adding changes to this file to test
-#Another line to Test
+#undo all other lines 
+#added this line for green team.
