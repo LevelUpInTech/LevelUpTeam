@@ -2,6 +2,8 @@
 
 echo "Please enter your name:"
 read name
+echo "Please enter your date of birth"
+read date of birth
 echo "Reading.... please wait"
 sleep 3 
 echo "-----------------------------"
@@ -20,3 +22,5 @@ sleep 2
 curl ifconfig.me
 
 This is week 4 - project test
+
+
