@@ -1,5 +1,5 @@
 #!/bin/bash
-
+This is a git modification.
 echo "Please enter your name:"
 read name
 echo "Reading.... please wait"
