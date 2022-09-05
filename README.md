@@ -1,8 +1,8 @@
-### Hi there 👋
+H### Hi there, my name is Oluseeni Idowu. I am currently going thru the LUIT program to help improve myself. I am interested in cloud computing and currently learning Linux Basics. 
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
 
-Find out more about me & feel free to connect with me here:
+Find out more about me & feel free to connect with me here: https://www.linkedin.com/in/oluseeni-idowu-01789283/
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
