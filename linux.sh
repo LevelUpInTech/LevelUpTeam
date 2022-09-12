@@ -19,4 +19,4 @@ echo "-----------------------------"
 sleep 2
 curl ifconfig.me
 
-This is week 4 - project test
+# This is the Level Up In Tech  week 4 - project test and I'm adding a comment to the shell script.
