@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
-
+Hello, my name is Weiping Zhang. I live in Toronto, Canada. So happy to meet you all.
 Find out more about me & feel free to connect with me here:
-
+linkedin.com/in/weipingzh
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-Broadus%20Palmer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levelupwithbroadus/)](https://www.linkedin.com/in/levelupwithbroadus/)
