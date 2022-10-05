@@ -18,5 +18,6 @@ echo "My IP address is:"
 echo "-----------------------------"
 sleep 2
 curl ifconfig.me
+Welcome to LUIT Blue Team 2022 !
 
 This is week 4 - project test
