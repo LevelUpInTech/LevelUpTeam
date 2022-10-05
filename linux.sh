@@ -19,4 +19,7 @@ echo "-----------------------------"
 sleep 2
 curl ifconfig.me
 
+
+I use to teach the ABCs not long ago
+
 This is week 4 - project test
