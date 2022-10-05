@@ -1,8 +1,13 @@
-### Hi there 👋
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
+Hi, I'm Jose Gabriel. I'm seeking Certification in DevOps Engineer at Level Up In Tech.
+I'm interested in obtaining AWS in DevOps and to becoming a Cloud Security. 
+Currently learning AWS in DevOps. 
 
 Find out more about me & feel free to connect with me here:
+
+I'm looking forward to collaborating and sharing a meaningful professional converstion and making an impactful connections 
+Connect with me on LinkEdIn at linkedin.com/in/jose-gabriel
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
