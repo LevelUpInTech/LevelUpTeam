@@ -19,4 +19,7 @@ echo "-----------------------------"
 sleep 2
 curl ifconfig.me
 
+Shout out to the Blue Team Cohort!
 This is week 4 - project test
+
+
