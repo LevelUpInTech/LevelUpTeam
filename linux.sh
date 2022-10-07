@@ -19,6 +19,8 @@ echo "-----------------------------"
 sleep 2
 curl -4 www.icanhazip.com
 
+Edited last command in this script so show ip address.  
+
 This is week 4 - project test
 
 
