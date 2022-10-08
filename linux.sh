@@ -17,6 +17,10 @@ sleep 2
 echo "My IP address is:"
 echo "-----------------------------"
 sleep 2
-curl ifconfig.me
+curl -4 www.icanhazip.com
+
+Edited last command in this script so show ip address.  
 
 This is week 4 - project test
+
+
