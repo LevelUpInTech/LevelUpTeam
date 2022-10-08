@@ -1,5 +1,5 @@
 #!/bin/bash
-
+echo "Abamikhu has made a change to this .sh file."
 echo "Please enter your name:"
 read name
 echo "Reading.... please wait"
