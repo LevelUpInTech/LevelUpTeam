@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Please enter your name:"
+echo "Will"
 read name
 echo "Reading.... please wait"
 sleep 3 
@@ -9,7 +9,7 @@ echo "Your username is:" && whoami
 echo "-----------------------------"
 echo "This is one of my first Linux Scripts"
 sleep 2
-echo "Please wait while we process the date......."
+echo "Please wait while we process the date 10/08/22"
 sleep 3
 echo "Made on:" && date
 echo "-----------------------------"
