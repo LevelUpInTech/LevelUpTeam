@@ -1,21 +1,21 @@
 #!/bin/bash
 
 echo "Please enter your name:"
-read name
+read name Roland
 echo "Reading.... please wait"
 sleep 3 
 echo "-----------------------------"
 echo "Your username is:" && whoami 
-echo "-----------------------------"
+echo "-Radams83----------------------------"
 echo "This is one of my first Linux Scripts"
 sleep 2
 echo "Please wait while we process the date......."
 sleep 3
 echo "Made on:" && date
-echo "-----------------------------"
+echo "-10/8/2022----------------------------"
 sleep 2
 echo "My IP address is:"
-echo "-----------------------------"
+echo "----139.144.39.7-------------------------"
 sleep 2
 curl ifconfig.me
 
