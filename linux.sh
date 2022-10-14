@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Please enter your name:"
+echo "Please enter your name on your birth certificate:"
 read name
 echo "Reading.... please wait"
 sleep 3 
