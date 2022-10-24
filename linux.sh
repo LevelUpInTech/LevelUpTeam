@@ -1,4 +1,5 @@
-#!/bin/bash
+i#!/bin/bash
+Week 4 project by Olufemi Olusanya
 
 echo "Please enter your name:"
 read name
