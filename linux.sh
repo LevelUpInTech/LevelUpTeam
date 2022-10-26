@@ -1,7 +1,7 @@
 #!/bin/bash
 
-echo "Please enter your name:"
-read name
+echo "Please enter your name on your drivers license:"
+read  name 
 echo "Reading.... please wait"
 sleep 3 
 echo "-----------------------------"
