@@ -1,4 +1,4 @@
-#!/bin/bash
+i#!/bin/bash
 
 echo "Please enter your name:"
 read name
@@ -19,4 +19,4 @@ echo "-----------------------------"
 sleep 2
 curl ifconfig.me
 
-This is week 4 - project test
+echo  "This is week 4 - project test for the amazing black team."
