@@ -18,6 +18,7 @@ echo "My IP address is:"
 echo "-----------------------------"
 sleep 2
 echo "New line added by Ahmed Hersi"
+echo "added another line"
 curl ifconfig.me
 
 This is week 4 - project test
