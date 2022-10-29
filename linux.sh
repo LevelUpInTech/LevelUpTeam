@@ -19,6 +19,7 @@ echo "-----------------------------"
 sleep 2
 echo "New line added by Ahmed Hersi"
 echo "added another line"
+echo "another one"
 curl ifconfig.me
 
 This is week 4 - project test
