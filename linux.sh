@@ -20,3 +20,4 @@ sleep 2
 curl ifconfig.me
 
 This is week 4 - project test
+echo "Here is another row. Week 4 project":
