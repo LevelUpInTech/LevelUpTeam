@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "Please enter your name:"
-read name
+read name  This is my season and my time. I am accerating in everyway and everywhere.
 echo "Reading.... please wait"
 sleep 3 
 echo "-----------------------------"
