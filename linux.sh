@@ -1,22 +1,22 @@
 #!/bin/bash
 
-echo "Please enter your name:"
-read name
+echo "Please enter your favorite cereal:"
+read cerealname
 echo "Reading.... please wait"
 sleep 3 
 echo "-----------------------------"
-echo "Your username is:" && whoami 
+echo "Hmm I would not have chosen that one." 
 echo "-----------------------------"
-echo "This is one of my first Linux Scripts"
+echo "I prefer Marshellow Mateys myself."
 sleep 2
-echo "Please wait while we process the date......."
+echo "Let me see if I have any $cerealname.."
 sleep 3
-echo "Made on:" && date
+echo "Nope, not in that directory...Checking elsewhere"
 echo "-----------------------------"
 sleep 2
-echo "My IP address is:"
+echo "Nope, not in that one either."
 echo "-----------------------------"
 sleep 2
-curl ifconfig.me
+echo "I'm sorry. I don't seem to have any $cerealname."
 
-This is week 4 - project test
+# This is the Level Up in Tech week 4 test project completed by Tait Hoglund on 11/29/22 2:15 CSDT
