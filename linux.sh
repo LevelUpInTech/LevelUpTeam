@@ -1,5 +1,5 @@
 #!/bin/bash
-
+echo"Level Up"
 echo "Please enter your name:"
 read name
 echo "Reading.... please wait"
