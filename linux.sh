@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# Hello Level Up Red Team #
 echo "Please enter your name:"
 read name
 echo "Reading.... please wait"
