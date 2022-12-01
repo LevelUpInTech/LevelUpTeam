@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Please enter your name:"
+echo "Brandi McCall"
 read name
 echo "Reading.... please wait"
 sleep 3 
