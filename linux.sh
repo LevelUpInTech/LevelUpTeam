@@ -4,18 +4,18 @@ echo "Please enter your name:"
 read name
 echo "Reading.... please wait"
 sleep 3 
-echo "-----------------------------"
+echo "Ezra N. Locke"
 echo "Your username is:" && whoami 
-echo "-----------------------------"
+echo "enlocke1980"
 echo "This is one of my first Linux Scripts"
 sleep 2
 echo "Please wait while we process the date......."
 sleep 3
 echo "Made on:" && date
-echo "-----------------------------"
+echo "December 2, 2022"
 sleep 2
 echo "My IP address is:"
-echo "-----------------------------"
+echo "52.91.185.35"
 sleep 2
 curl ifconfig.me
 
