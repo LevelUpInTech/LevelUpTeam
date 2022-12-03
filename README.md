@@ -1,6 +1,9 @@
-### Hi there 👋
 
-I am a Senior Network Security Engineer leveling up my skills to become a DevOps Engineer. I currently reside in the Evergreen State (Washington). In my free time when im not consumed in Tech, im out in my woodshop being creative or out officiating sports (football and basketball). I'm always looking to improve my technical skills to make myself well rounded and more marketable. Im currently learning/ working with Linux, AWS, Python, Docker, and Terraform. 
+- 👋 Hi, I’m Keon
+- 👀 I’m interested in DevOps/ DevSecOps
+- 🌱 I’m currently learning AWS, Kubernetes, Terraform, Python, and Linux.
+
+I am a Senior Network Security Engineer leveling up my skills to become a DevOps Engineer. I currently reside in the Evergreen State (Washington). In my free time when im not consumed in Tech, im out in my woodshop being creative or out officiating sports (football and basketball). I'm always looking to improve my technical skills to make myself more knowledgeable about new technologies. Im currently learning/ working with Linux, AWS, Python, Docker, and Terraform. 
 
 Find out more about me & feel free to connect with me here:
 
