@@ -2,6 +2,8 @@
 
 echo "Please enter your name:"
 read name
+echo "-----------------------------"
+echo -e "Hello $name!\n"
 echo "Reading.... please wait"
 sleep 3 
 echo "-----------------------------"
