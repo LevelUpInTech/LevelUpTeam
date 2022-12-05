@@ -5,7 +5,7 @@ read  Byron Bass
 echo "Reading.... please wait"
 sleep This is my second project! Hopefully you like it!
 echo "-----------------------------"
-echo "Your username is:" && whoami 
+echo "Your username is:" payme06 
 echo "-----------------------------"
 echo "This is one of my first Linux Scripts"
 sleep 2
