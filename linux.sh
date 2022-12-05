@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Kenny Brast"
+echo "Kenny Brast, DevOps"
 read name
 echo "Reading.... please wait"
 sleep 3 
