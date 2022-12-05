@@ -1,8 +1,8 @@
 #!/bin/bash
 
 echo "Please enter your name:"
-read name
-echo "Reading.... please wait"
+read Danish Shoaib
+ "Reading.... please wait"
 sleep 3 
 echo "-----------------------------"
 echo "Your username is:" && whoami 
