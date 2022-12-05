@@ -2,13 +2,13 @@
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
 
-Find out more about me & feel free to connect with me here:
+Find out more about me & feel free to connect with me here:My name is Aaron Bachman. I am a dedicated professional with a strong history of troubleshooting and learning on the job. I am currently transisioning into the cloud technology industry and am primarily interested in AWS and cyber security. I have 18 years of experience operating and maintaining utlity plants; here I have aquired skills in many different areas, with the ability to learn quickly and apply this knowledge being foremost. Currently I am attending the "Level Up in Tech" DevOps cloud engineering bootcamp, and learning and applying AWS, Linux, Python, Infrastructure as code, Terraform, and Source Control. I am very excited to be learning and transisioning into a the tech field!
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Broadus%20Palmer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levelupwithbroadus/)](https://www.linkedin.com/in/levelupwithbroadus/)
-[![Medium Badge](https://img.shields.io/badge/Broadus%20Palmer-12100E?style=flat-square&logo=medium&logoColor=white&link=https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)](https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)
-[![Gmail Badge](https://img.shields.io/badge/-Broadus@Levelupintech.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Broadus@Levelupintech.com)](mailto:Broadus@Levelupintech.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Aaron%Bachman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abachmandevops/)](www.linkedin.com/in/abachmandevops/)
+[![Medium Badge](https://img.shields.io/badge/Aaron%Bachman-12100E?style=flat-square&logo=medium&logoColor=white&link=https://https://medium.com/@abach06/)](https://https://medium.com/@abach06/)
+[![Gmail Badge](https://img.shields.io/badge/-abach06@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abach06@gmail.com)](abach06@gmail.com)
 
 ## ⚡ Technologies
 
@@ -25,8 +25,9 @@ Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=LevelUpInTech&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LevelUpInTech&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=abach06&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abach06&hide=TeX&layout=compact)
 
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=LevelUpInTech%2FLevelUpInTech&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=LevelUpInTech%2FLevelUpInTech)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=abach06%2Fabach06&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=abach06%2Fabach06)
+
