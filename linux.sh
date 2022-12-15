@@ -2,6 +2,10 @@
 
 echo "Please enter your name:"
 read name
+echo "please enter which linux distribution are you using"
+read os
+echo "my os is" && os
+sleep 3
 echo "Reading.... please wait"
 sleep 3 
 echo "-----------------------------"
@@ -14,9 +18,9 @@ sleep 3
 echo "Made on:" && date
 echo "-----------------------------"
 sleep 2
-echo "My IP address is:"
+echo "My IP addressi"
 echo "-----------------------------"
 sleep 2
 curl ifconfig.me
 
-This is week 4 - project test
+echo "This is week 4 - project 1 linux script"
