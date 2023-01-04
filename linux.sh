@@ -2,6 +2,8 @@
 
 #This is my project2 edit to this file
 
+#TESTING MY GIT GAME
+
 echo "Please enter your name:"
 read name
 echo "Reading.... please wait"
