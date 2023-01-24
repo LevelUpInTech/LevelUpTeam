@@ -1,16 +1,19 @@
+![LinkedIn Banner3](https://user-images.githubusercontent.com/110882652/214210680-923aa772-6f23-4bd2-b207-3ad463bb2c19.png)
 
 - 👋 Hi, I’m Keon
-- 👀 I’m interested in DevOps/ DevSecOps
-- 🌱 I’m currently learning AWS, Kubernetes, Terraform, Python, and Linux.
-
-I am a Senior Network Security Engineer leveling up my skills to become a DevOps Engineer. I currently reside in the Evergreen State (Washington). In my free time when im not consumed in Tech, im out in my woodshop being creative or out officiating sports (football and basketball). I'm always looking to improve my technical skills to make myself more knowledgeable about new technologies. Im currently learning/ working with Linux, AWS, Python, Docker, and Terraform. 
+- 👀 I’m DevOps/ Cloud Engineer
+- 🌱 I’m currently learning AWS, Kubernetes, Terraform, and Python.
+- 🏈 In my spare time I officiate Football and Basketball at the Semi-Pro level and lower.
+- 🪓 Also into Woodworking as a hobby.
 
 Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-Keon%20Edwards-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keonedwards/)](https://www.linkedin.com/in/keonedwards/)
+
 [![Medium Badge](https://img.shields.io/badge/-Keon%20Edwards-12100E?style=flat-square&logo=medium&logoColor=white&link=https://https://medium.com/@mr.edwards.kj)](https://https://medium.com/@mr.edwards.kj)
+
 [![Gmail Badge](https://img.shields.io/badge/-mr.edwards.kj@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mr.edwards.kj@gmail.com)](mailto:mr.edwards.kj@gmail.com)
 
 ## ⚡ Technologies
