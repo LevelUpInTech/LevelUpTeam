@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
+Hello, welcome to my github! My name is Weiping Zhang. So happy to meet you. I am an automation QA engineer and I build test scripts using python, java, and javascript to test both the frontend and backend of the system. Writing scripts is one of the funnest part in my work. I am currently preparing for future roles as a Cloud Engineer and I got the AWS CDA certification. I like exploring new things. Right now I am learning snowboarding and horseback riding. Let me know if you are also interested in any of these!
 
 Find out more about me & feel free to connect with me here:
-
+linkedin.com/in/weipingzh
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-Broadus%20Palmer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levelupwithbroadus/)](https://www.linkedin.com/in/levelupwithbroadus/)
