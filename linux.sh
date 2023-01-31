@@ -14,9 +14,7 @@ sleep 3
 echo "Made on:" && date
 echo "-----------------------------"
 sleep 2
-echo "My IP address is:"
-echo "-----------------------------"
-sleep 2
-curl ifconfig.me
-
-This is week 4 - project test
+echo "My IP address is:" && curl ifconfig.me
+sleep 3
+echo   
+#This is week 4 - project test
