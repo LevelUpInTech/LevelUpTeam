@@ -16,7 +16,9 @@ echo "-----------------------------"
 sleep 2
 echo "My IP address is:"
 echo "-----------------------------"
-sleep 2
+echo "IPv4:"
 curl ifconfig.me
-
-This is week 4 - project test
+echo -e "\n--------------------------"
+sleep 2
+echo "This is Week 4"
+echo "-----------------------------"
