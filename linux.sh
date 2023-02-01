@@ -3,20 +3,20 @@
 echo "Please enter your name:"
 read name
 echo "Reading.... please wait"
-sleep 3 
+sleep 1 
 echo "-----------------------------"
-echo "Your username is:" && whoami 
+echo -n "Hello $name.  Your username is: " && whoami 
 echo "-----------------------------"
-echo "This is one of my first Linux Scripts"
-sleep 2
+echo "This is one of my first Linux Scripts."
+echo "-----------------------------"
 echo "Please wait while we process the date......."
-sleep 3
-echo "Made on:" && date
+sleep 1
+echo -n "Made on: " && date
 echo "-----------------------------"
-sleep 2
-echo "My IP address is:"
+sleep 1
+myip=$(curl --silent ifconfig.me)
+echo "My IP address is: $myip"
 echo "-----------------------------"
-sleep 2
-curl ifconfig.me
+sleep 1
 
-This is week 4 - project test
+echo "This is the week 4 project: Git and GitHub."
