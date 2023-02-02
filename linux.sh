@@ -19,4 +19,4 @@ echo "-----------------------------"
 sleep 2
 curl ifconfig.me
 
-This is week 4 - project test
+#This is week 4 - project test The 3 Tech BFFs
