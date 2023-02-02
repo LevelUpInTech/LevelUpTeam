@@ -1,7 +1,7 @@
 #!/bin/bash
-
+#Changed by Hoov
 echo "Please enter your name:"
-read name
+read name 
 echo "Reading.... please wait"
 sleep 3 
 echo "-----------------------------"
