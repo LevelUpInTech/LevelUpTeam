@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#We are adding some text as requested.  Gold Team-Leveling Up In Tech!.
 echo "Please enter your name:"
 read name
 echo "Reading.... please wait"
