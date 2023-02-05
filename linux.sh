@@ -2,7 +2,7 @@
 
 echo "Please enter your name:"
 read name
-echo "Reading.... please wait"
+echo "Reading.... please wait because you name is really long"
 sleep 3 
 echo "-----------------------------"
 echo "Your username is:" && whoami 
@@ -20,3 +20,4 @@ sleep 2
 curl ifconfig.me
 
 This is week 4 - project test
+#This file was edited by Paul Hill
