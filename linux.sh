@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "Please enter your name:"
-read Mikayla
+read Mikayla Feb52023
 echo "Reading.... please wait"
 sleep 3 
 echo "-----------------------------"
