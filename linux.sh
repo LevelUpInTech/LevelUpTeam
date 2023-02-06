@@ -7,16 +7,19 @@ sleep 3
 echo "-----------------------------"
 echo "Your username is:" && whoami 
 echo "-----------------------------"
+echo "                             "
 echo "This is one of my first Linux Scripts"
 sleep 2
 echo "Please wait while we process the date......."
 sleep 3
 echo "Made on:" && date
-echo "-----------------------------"
+echo "                            "
+echo "-------------------------------------------------------"
 sleep 2
-echo "My IP address is:"
-echo "-----------------------------"
+echo "My IP address is:" 
 sleep 2
-curl ifconfig.me
-
-This is week 4 - project test
+echo -e "\"curl ifconfig.me\" command will show your ip address"
+echo "-------------------------------------------------------"
+echo "                                "
+echo "This is week 4 - project test"
+echo "                                "
