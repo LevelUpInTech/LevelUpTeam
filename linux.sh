@@ -1,12 +1,12 @@
-#!/bin/bash
+i#!/bin/bash
 
-echo "Please enter your name:"
+echo "Stephanie Marie Tabares:"
 read name
 echo "Reading.... please wait"
 sleep 3 
 echo "-----------------------------"
-echo "Your username is:" && whoami 
-echo "-----------------------------"
+echo "Your username is: stephaniemtabares" && whoami 
+ echo "-----------------------------"
 echo "This is one of my first Linux Scripts"
 sleep 2
 echo "Please wait while we process the date......."
