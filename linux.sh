@@ -1,11 +1,11 @@
 #!/bin/bash
 
 echo "Please enter your name:"
-read name
+read Mike
 echo "Reading.... please wait"
 sleep 3 
 echo "-----------------------------"
-echo "Your username is:" && whoami 
+echo "Your username is:" cloud_user 
 echo "-----------------------------"
 echo "This is one of my first Linux Scripts"
 sleep 2
@@ -19,4 +19,4 @@ echo "-----------------------------"
 sleep 2
 curl ifconfig.me
 
-This is week 4 - project test
+#This is week 4 - project test
