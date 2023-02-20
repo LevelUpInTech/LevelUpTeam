@@ -3,7 +3,9 @@
 echo "Please enter your name:"
 read name
 echo "Reading.... please wait"
-sleep 3 
+sleep 3
+echo "Hello $name, welcome to my project"
+sleep 2
 echo "-----------------------------"
 echo "Your username is:" && whoami 
 echo "-----------------------------"
