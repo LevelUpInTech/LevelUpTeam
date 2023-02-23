@@ -2,15 +2,20 @@ import boto3
 import os
 import glob
 
+#delete object 
 s3 = boto3.client("s3")
-#print(s3.list_objects(Bucket = "dariusmartecloud")["Contents"])
-objects = s3.list_objects(Bucket = "dariusmartecloud")["Contents"]
+s3.delete_object(Bucket = "")
 
-print(len(objects))
-if len(objects) > 0:
-    print("objects exist")
-for object in (objects):
-    print(object)
+
+#s3 = boto3.client("s3")
+#print(s3.list_objects(Bucket = "dariusmartecloud")["Contents"])
+#objects = s3.list_objects(Bucket = "dariusmartecloud")["Contents"]
+
+#print(len(objects))
+#if len(objects) > 0:
+ #   print("objects exist")
+#for object in (objects):
+ #   print(object)
 
 
 #upload a single file to s3 bucket
