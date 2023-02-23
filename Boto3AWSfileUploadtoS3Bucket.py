@@ -2,10 +2,15 @@ import boto3
 import os
 import glob
 
-cwd = os.getcwd()
+s3 = boto3.client("s3")
+#print(s3.list_objects(Bucket = "dariusmartecloud")["Contents"])
+objects = s3.list_objects(Bucket = "dariusmartecloud")["Contents"]
 
-files = glob.glob("*")
-print (files)
+print(len(objects))
+if len(objects) > 0:
+    print("objects exist")
+for object in (objects):
+    print(object)
 
 
 #upload a single file to s3 bucket
