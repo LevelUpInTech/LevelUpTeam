@@ -2,9 +2,11 @@ import boto3
 import os
 import glob
 
-#delete object 
+#delete object single object
 s3 = boto3.client("s3")
-s3.delete_object(Bucket = "")
+s3.delete_object(Bucket = "", key = "")
+
+
 
 
 #s3 = boto3.client("s3")
