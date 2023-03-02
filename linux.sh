@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#This is week 4 - project test
+
 echo "Please enter your name:"
 read name
 echo "Reading.... please wait"
@@ -14,9 +16,6 @@ sleep 3
 echo "Made on:" && date
 echo "-----------------------------"
 sleep 2
-echo "My IP address is:"
+echo "My IP address is:" && curl ifconfig.me
 echo "-----------------------------"
 sleep 2
-curl ifconfig.me
-
-This is week 4 - project test
