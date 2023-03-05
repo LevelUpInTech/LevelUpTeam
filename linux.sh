@@ -1,6 +1,7 @@
 #!/bin/bash
 
 
+
 echo "Please enter your name:" Allie! 
 read name
 echo "Reading.... please wait"
@@ -21,4 +22,4 @@ echo "-----------------------------"
 sleep 2
 curl ifconfig.me
 
-This is week 4 - project test
+This is week 4 - project for the Green Team! Let's GO!
