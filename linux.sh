@@ -1,3 +1,4 @@
+
 #!/bin/bas
 
 
@@ -9,7 +10,7 @@ echo "-----------------------------"
 echo "Your username is:" alliematthews 
 
 echo "-----------------------------"
-echo "This is one of my first Linux Scripts"
+echo "This is one of my first Linux Scripts for Level Up In Tech"
 sleep 2
 echo "Please wait while we process the date......."
 sleep 3
