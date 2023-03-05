@@ -1,4 +1,6 @@
-#!/bin/bash
+##!/bin/bash
+
+#This is week 4 - project test
 
 echo "Please enter your name:"
 read name
@@ -18,5 +20,3 @@ echo "My IP address is:"
 echo "-----------------------------"
 sleep 2
 curl ifconfig.me
-
-This is week 4 - project test
