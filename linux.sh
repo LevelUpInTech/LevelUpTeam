@@ -1,5 +1,4 @@
-#!/bin/bash
-
+#!/bin/bas
 
 
 echo "Please enter your name:" Allie! 
