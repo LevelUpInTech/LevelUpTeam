@@ -1,7 +1,9 @@
 #!/bin/bash
 
 echo "Please enter your name:"
-read name
+read name 
+echo "What is your favorite tv show?"
+read tvshow
 echo "Reading.... please wait"
 sleep 3 
 echo "-----------------------------"
@@ -19,4 +21,5 @@ echo "-----------------------------"
 sleep 2
 curl ifconfig.me
 
-This is week 4 - project test
+echo -e "\nThis is week 4 - project test" 
+
