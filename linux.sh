@@ -18,5 +18,15 @@ echo "My IP address is:"
 echo "-----------------------------"
 sleep 2
 curl ifconfig.me
+echo ""
+sleep 2
+echo "What is your favorite color?"
+read color
+sleep 3
+echo "That's great $name! $color is my favorite color too!"
+echo 
+echo
+echo
 
-This is week 4 - project test
+
+#This is week 4 - project test
