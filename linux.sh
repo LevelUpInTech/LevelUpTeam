@@ -1,5 +1,5 @@
 #!/bin/bash
-
+BLUE TEAM!
 echo "Please enter your name:"
 read name
 echo "Reading.... please wait"
