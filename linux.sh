@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Please enter your name:"
+echo "Sibyl J:"
 read name
 echo "Reading.... please wait"
 sleep 3 
@@ -17,6 +17,6 @@ sleep 2
 echo "My IP address is:"
 echo "-----------------------------"
 sleep 2
-curl icanhazip.com
+curl ifconfig.me
 
 This is week 4 - project test
