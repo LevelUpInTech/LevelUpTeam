@@ -17,6 +17,6 @@ sleep 2
 echo "My IP address is:"
 echo "-----------------------------"
 sleep 2
-curl ifconfig.me
+curl icanhazip.com
 
 This is week 4 - project test
