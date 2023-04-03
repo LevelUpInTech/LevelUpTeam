@@ -2,7 +2,7 @@
 
 echo "Please enter your name:"
 read name
-echo "Reading.... please wait"
+echo "Loading.... please wait"
 sleep 3 
 echo "-----------------------------"
 echo "Your username is:" && whoami 
