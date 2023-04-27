@@ -1,5 +1,6 @@
 #!/bin/bash
 
+Welcome Let's get started.
 
 echo "Please enter your name:"
 read name
@@ -21,3 +22,5 @@ sleep 2
 curl ifconfig.me
 
 This is week 4 - project test
+
+Virgil Majors has inititiated this very minor change in this shell script!
