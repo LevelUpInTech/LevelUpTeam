@@ -1,5 +1,7 @@
 #!/bin/bash
 
+Welcome Let's get started this time using VIM
+
 echo "Please enter your name:"
 read name
 echo "Reading.... please wait"
@@ -20,3 +22,5 @@ sleep 2
 curl ifconfig.me
 
 This is week 4 - project test
+
+Virgil Majors has inititiated this very minor change in this shell script!
