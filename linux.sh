@@ -20,3 +20,7 @@ sleep 2
 curl ifconfig.me
 
 This is week 4 - project test
+
+this is last week for linux
+looking forward to AWS
+
