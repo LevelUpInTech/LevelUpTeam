@@ -1,6 +1,6 @@
 #!/bin/bash
 
-Welcome Let's get started.
+Welcome Let's get started this time using VIM
 
 echo "Please enter your name:"
 read name
