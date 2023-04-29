@@ -18,3 +18,4 @@ echo "My IP address is:" && curl ifconfig.me
 sleep 3
 echo
 #This is week 4 - project test
+ 
