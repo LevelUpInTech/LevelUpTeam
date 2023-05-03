@@ -1,11 +1,11 @@
 #!/bin/bash
 
 echo "Please enter your name:"
-read name
+read Kelvin Warren
 echo "Reading.... please wait"
 sleep 3 
 echo "-----------------------------"
-echo "Your username is:" && whoami 
+echo "Your username is:" Kdwarren17
 echo "-----------------------------"
 echo "This is one of my first Linux Scripts"
 sleep 2
