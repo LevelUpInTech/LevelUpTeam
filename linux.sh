@@ -19,4 +19,5 @@ echo "-----------------------------"
 sleep 2
 curl ifconfig.me
 
-This is week 4 - project test
+echo -e "\n===========================" && sleep 2
+echo -e "This is week 4 - project test for \"$name\"\n Thank you"
