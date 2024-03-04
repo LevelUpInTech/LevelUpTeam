@@ -20,4 +20,4 @@ sleep 2
 curl ifconfig.me
 
 This is week 4 - project test
-echo "keep killing it! Red team"
+echo "keep killing it! Yellow team"
